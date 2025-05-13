@@ -74,5 +74,6 @@ export default async function handler(req, res) {
         // 错误处理并打印日志
         console.error('Error forwarding request to xAI:', error);
         return res.status(500).json({ error: 'Failed to forward request to xAI' });
+
     }
 }
