@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "vercel dev",
-    "start": "vercel start",
-    "build": "vercel build"
+    "start": "vercel start"
   },
   "dependencies": {
     "node-fetch": "^2.6.7"
@@ -14,6 +13,5 @@
   "engines": {
     "node": "22.x"
   },
-  "author": "TokenSci",
   "license": "MIT"
 }
