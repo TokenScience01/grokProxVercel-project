@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ea4f4c73-be7a-4b7f-b721-cb3612fd19ad" name="Changes" comment="chage node version">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/proxy.js" beforeDir="false" afterPath="$PROJECT_DIR$/api/proxy.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +119,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747106540466</updated>
-      <workItem from="1747106541578" duration="3697000" />
+      <workItem from="1747106541578" duration="3805000" />
     </task>
     <task id="LOCAL-00001" summary="chage node version">
       <option name="closed" value="true" />
@@ -194,7 +193,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747110180801</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="chage node version">
+      <option name="closed" value="true" />
+      <created>1747110252416</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1747110252416</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
