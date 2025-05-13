@@ -1,4 +1,4 @@
-const fetch = require('node-fetch');
+import fetch from 'node-fetch';  // 修改为 import
 
 export default async function handler(req, res) {
     if (req.method !== 'POST') {

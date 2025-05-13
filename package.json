@@ -20,5 +20,6 @@
     "url": "https://github.com/TokenScience01/grokProxVercel-project/issues"
   },
   "homepage": "https://github.com/TokenScience01/grokProxVercel-project#readme",
-  "description": ""
+  "description": "",
+  "type": "module"
 }
