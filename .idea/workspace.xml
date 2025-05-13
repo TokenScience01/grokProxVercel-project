@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea4f4c73-be7a-4b7f-b721-cb3612fd19ad" name="Changes" comment="chage node version">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ea4f4c73-be7a-4b7f-b721-cb3612fd19ad" name="Changes" comment="chage node version1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -119,7 +117,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747106540466</updated>
-      <workItem from="1747106541578" duration="3805000" />
+      <workItem from="1747106541578" duration="3860000" />
     </task>
     <task id="LOCAL-00001" summary="chage node version">
       <option name="closed" value="true" />
@@ -201,7 +199,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747110252416</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="chage node version1">
+      <option name="closed" value="true" />
+      <created>1747110361862</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1747110361862</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,6 +215,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="chage node version" />
-    <option name="LAST_COMMIT_MESSAGE" value="chage node version" />
+    <MESSAGE value="chage node version1" />
+    <option name="LAST_COMMIT_MESSAGE" value="chage node version1" />
   </component>
 </project>

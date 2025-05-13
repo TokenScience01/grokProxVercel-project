@@ -1,0 +1,24 @@
+{
+  "name": "grokproxvercel-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^5.1.0",
+    "node-fetch": "^2.7.0"
+  },
+  "scripts": {
+    "dev": "node api/grokProxy.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TokenScience01/grokProxVercel-project"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TokenScience01/grokProxVercel-project/issues"
+  },
+  "homepage": "https://github.com/TokenScience01/grokProxVercel-project#readme",
+  "description": ""
+}
